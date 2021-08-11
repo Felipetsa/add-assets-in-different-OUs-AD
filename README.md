@@ -1,7 +1,7 @@
 # Overview
 
 This PowerShell script automates adding assets in different OUs (for companies that have different offices in the Active Directory)<br/>
-This script adds laptops & desktops to Active Directory.
+This script adds laptops and desktops to Active Directory.
 
 # Usage
 
